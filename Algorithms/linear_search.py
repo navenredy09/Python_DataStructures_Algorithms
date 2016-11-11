@@ -11,7 +11,7 @@ def linear_search(myItem, myList):
     return found
 
 if __name__ == "__main__":
-    shopping = ["apple","bananas","chocolate","pasta"]
+    shopping = ["apple","bananas","chocolate","pasta","orange"]
     item = raw_input("What item do you want to find: ")
     isitFound = linear_search(item,shopping)
     if isitFound:
