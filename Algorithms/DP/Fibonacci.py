@@ -20,6 +20,6 @@ def fib_dp(n):
 
 if __name__ == "__main__":
   fib(100)        #this algorithm seems to never terminate!
-  fib_dp(100)     #It's a magic
+  fib_dp(100)     #It's a magic 354224848179261915075
   
 
